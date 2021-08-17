@@ -1,5 +1,6 @@
 # restore-symbol
 
+修改了search_oc_block/ida_search_block.py使其支持python3 IDA 7.X
 A reverse engineering tool to restore stripped symbol table for iOS app.
 
 Example: restore symbol for Alipay
